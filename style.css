@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-section{
+    font-size: 50px;
+}
+.highlighter{
+    color: #ffa500;
+}
+p{
+    color: #696969;
+}
+section{
+    height: 500px;
+}
+.half-section{
+    float: left;
+    width: 40%;
+    padding-left: 5%;
+
+}
+.half-section img{
+    width: 100%;
+}
